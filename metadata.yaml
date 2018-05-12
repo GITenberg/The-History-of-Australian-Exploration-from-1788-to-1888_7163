@@ -1,4 +1,8 @@
 _repo: The-History-of-Australian-Exploration-from-1788-to-1888_7163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Favenc, Ernest
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2359
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Favenc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7163#The-History-of-Australian-Exploration-from-1788-to-1888
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
